@@ -1,0 +1,5 @@
+/env
+/.idea
+/static
+/staticfiles
+db.sqlite3
